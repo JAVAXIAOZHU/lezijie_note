@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [09/May/2023:20:59:56 +0800] "GET /note/login.jsp HTTP/1.1" 200 2964 http-bio-8080-exec-1 95
+0:0:0:0:0:0:0:1 - - [09/May/2023:20:59:56 +0800] "GET /note/statics/js/config.js HTTP/1.1" 304 - http-bio-8080-exec-3 19
+0:0:0:0:0:0:0:1 - - [09/May/2023:20:59:56 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
